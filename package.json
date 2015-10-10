@@ -1,0 +1,21 @@
+{
+	"name": "ti.storyboard",
+	"version": "0.0.1",
+	"description": "Support native storyboards in Titanium Mobile.",
+	"scripts": {
+	},
+	"keywords": [
+		"appcelerator",
+		"titanium",
+		"storyboard"
+	],
+	"author": "Hans Knoechel",
+	"contributors": [
+		{
+			"name": "Hans Knoechel"
+		}
+	],
+	"license": "LicenseRef-LICENSE",
+	"dependencies": {
+	}
+}
