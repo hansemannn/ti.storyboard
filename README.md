@@ -3,6 +3,8 @@
 Support for launch screen storyboards using Titanium Mobile and Appcelerator Studio. 
 This repository is a proof of concept and will most likely be replaced by the SDK CLI in future releases.
 
+> Note: Titanium Mobile supports launch screen storyboard since [5.2.0.GA](http://www.appcelerator.com/blog/2016/02/ga-release-of-cli-5-2-titanium-5-2-and-studio-4-5/), so this plugin is now obsolete. 
+
 ## Usage
 1. Clone the plugin
 2. Copy the plugin folder to `<Titanium_Application_Root>/plugins`
